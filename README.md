@@ -2,6 +2,8 @@
 
 Challenge : Kinase Selectivity : Team25
 
+**For a quick overview of the methods explored, checkout our** [presentation](https://docs.google.com/presentation/d/1RweCGeFDeYiOX_0qtq6s_OahcgOm18xIYTUwvP34Lz4/edit?usp=sharing).
+
 Polaris entry : https://polarishub.io/benchmarks/polaris/pkis1-kit-wt-mut-c-1/5UiLBlCrNbVHkVbrAbd7t
 
 ```
